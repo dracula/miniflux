@@ -1,26 +1,26 @@
-# Dracula for [Miniflux](https://miniflux.app/)
+# Dracula for [Miniflux](https://miniflux.app)
 
-> A dark theme for [Miniflux](https://miniflux.app/)
+> A dark theme for [Miniflux](https://miniflux.app).
 
-![Screenshot](./miniflux-dracula.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
-* open dracula-miniflux.css file
-* copy css file content
-* paste content in **Miniflux > Settings - Custom CSS textarea**
-* **optional**: add `mf-drc-opt.css` file content
+All instructions can be found at [draculatheme.com/miniflux](https://draculatheme.com/miniflux).
 
-## Contributor
+## Team
 
-This theme is maintained by [![ghose](https://github.com/xmgz.png?size=100)](https://github.com/xmgz)
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/miniflux/graphs/contributors).
 
+| [![ghose](https://github.com/xmgz.png?size=100)](https://github.com/xmgz) |
+| ------------------------------------------------------------------------- |
+| [ghose](https://github.com/xmgz)                                          |
 
-## Contact
+## Community
 
-- [ghose at ⁂](https://gts.xmgz.eu/@ghose) - xmgz at fediverse ⁂
-- [draculatheme GitHub](https://github.com/dracula/dracula-theme/discussions) - Best for asking questions and discussing issues.
-- [draculatheme Discord](https://draculatheme.com/discord-invite) - Best for hanging out with the community.
+- [Twitter](https://twitter.com/draculatheme) - Best for getting updates about themes and new stuff.
+- [GitHub](https://github.com/dracula/dracula-theme/discussions) - Best for asking questions and discussing issues.
+- [Discord](https://draculatheme.com/discord-invite) - Best for hanging out with the community.
 
 ## Dracula PRO
 

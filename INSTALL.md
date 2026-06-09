@@ -1,14 +1,32 @@
+### [Miniflux](https://miniflux.app)
 
-## Install 
+#### Prerequisites
 
-Open [miniflux-dracula.css file](https://raw.githubusercontent.com/xmgz/dracula-miniflux/refs/heads/main/miniflux-dracula.css) and copy/paste it in Miniflux Settings.
+In **Settings → Appearance**, set the theme to **System**.
 
-### Activating theme
+#### Install using Git
 
-1. copy raw .css file content from link above;
-2. paste .css content in **Settings > Custom CSS** textarea ;
-3. click **Update** button ✨
+If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
-## Optional
+```bash
+git clone https://github.com/dracula/miniflux.git
+```
 
-* **also** paste [mf-drc-opt.css](https://raw.githubusercontent.com/xmgz/dracula-miniflux/refs/heads/main/mf-drc-opt.css) content for bigger titles and quote's styling
+Open [`miniflux-dracula.css`](miniflux-dracula.css) from the cloned repository and copy its contents.
+
+#### Install manually
+
+Download using the [GitHub `.zip` download](https://github.com/dracula/miniflux/archive/main.zip) option, or open the raw CSS file directly:
+
+- [`miniflux-dracula.css`](https://raw.githubusercontent.com/dracula/miniflux/main/miniflux-dracula.css)
+
+#### Activating theme
+
+1. Copy the contents of `miniflux-dracula.css`.
+2. Go to **Settings → Custom CSS** in your Miniflux instance.
+3. Paste the CSS into the textarea.
+4. Click **Save**. ✨
+
+#### Optional enhancements
+
+For a wider layout, larger titles, custom fonts, and styled blockquotes, also paste the contents of [`mf-drc-opt.css`](https://raw.githubusercontent.com/dracula/miniflux/main/mf-drc-opt.css) below the main theme CSS in the same textarea.
